@@ -103,4 +103,4 @@ async def videos(ctx):
 
 
 
-bot.run("MTE2MzU4MTUwMzkyMjUxMTkzMg.GySAW9.eqGcg3ZFiy9xrTKuwZfO4miQgaEtpSO3sorAbM")
+bot.run("TU TOKEN VA AQUI")
